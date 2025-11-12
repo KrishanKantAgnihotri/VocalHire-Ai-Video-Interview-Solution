@@ -3,7 +3,8 @@
 [![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://www.python.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.104+-green.svg)](https://fastapi.tiangolo.com/)
 [![React](https://img.shields.io/badge/React-18.2+-61dafb.svg)](https://reactjs.org/)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Watch the video]()](https://www.loom.com/share/03dc95bf3da0468483a757dd9a792150)
+
 
 VocalHire is an AI-powered voice-based mock interview platform designed to help students from vocational training centres in India practice their interview skills. The system provides real-time, conversational interaction that simulates a genuine human interviewer experience.
 

@@ -1,0 +1,2 @@
+"""VocalHire Backend Application"""
+
